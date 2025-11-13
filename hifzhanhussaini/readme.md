@@ -41,9 +41,9 @@ SmartyPants converts ASCII punctuation characters into "smart" typographic punct
 
 |no              |Reflection                     |Evidence                     |
 |----------------|-------------------------------|-----------------------------|
-|Assingment 1    |`'Isn't this fun?'`            |                             |
-|Assingment 2    |`"Isn't this fun?"`            |                             |
-|Assingment 3    |`-- is en-dash, --- is em-dash`|                             |
-|Assingment 4    |`-- is en-dash, --- is em-dash`|                             |
-|Assingment 5    |`-- is en-dash, --- is em-dash`|                             |
-|Assingment 6    |`-- is en-dash, --- is em-dash`|                             |
+|Assingment 1    |                               |                             |
+|Assingment 2    |                               |                             |
+|Assingment 3    |                               |                             |
+|Assingment 4    |                               |                             |
+|Assingment 5    |                               |                             |
+|Assingment 6    |                               |                             |
