@@ -33,7 +33,7 @@ You can export the current file by clicking **Export to disk** in the menu. You 
 
 SmartyPants converts ASCII punctuation characters into "smart" typographic punctuation HTML entities. For example:
 
-|                |ASCII                          |HTML                         |
+|No.             |Reflection                     |HTML                         |
 |----------------|-------------------------------|-----------------------------|
 |Assignment 1    |`'Isn't this fun?'`            |'Isn't this fun?'            |
 |Assignment 2    |`"Isn't this fun?"`            |"Isn't this fun?"            |
