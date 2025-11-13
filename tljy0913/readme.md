@@ -33,12 +33,12 @@ You can export the current file by clicking **Export to disk** in the menu. You 
 
 SmartyPants converts ASCII punctuation characters into "smart" typographic punctuation HTML entities. For example:
 
-|NO.  |REFLECTION                       |EVIDENCE                     |
-|-----|---------------------------------|-----------------------------|
-|1.   | Industry Talk                   |                             |
-|2.   | PC Assemble                     |
-|3.   | `-- is en-dash, --- is em-dash`	|-- is en-dash, --- is em-dash|
-|4.   |                                 |                             |
-|5.   |                                 |                             |
-|6.   |                                 |                             |
-|7.   |                                 |                             |
+|NO.  |REFLECTION                        |EVIDENCE                     |
+|-----|----------------------------------|-----------------------------|
+|1.   | Industry Talk                    |                             |
+|2.   | PC Assemble                      |
+|3.   | `-- is en-dash, --- is em-dash ` |-- is en-dash, --- is em-dash|
+|4.   |                                  |                             |
+|5.   |                                  |                             |
+|6.   |                                  |                             |
+|7.   |                                  |                             |
