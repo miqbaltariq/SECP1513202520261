@@ -100,11 +100,11 @@ SmartyPants converts ASCII punctuation characters into "smart" typographic punct
 |       No      |Reflection                          |Evidence                         |
 |----------------|-------------------------------|-----------------------------|
 |Assignment 1|`'Isn't this fun?'`            |'Isn't this fun?'            |
-|Assignment 2          |`"Isn't this fun?"`            |"Isn't this fun?"            |
-|Asssignment 3         |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
+|Assignment 2|`"Isn't this fun?"`            |"Isn't this fun?"            |
+|Assignment 3|`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
 |Assignment 4|`'Isn't this fun?'`            |'Isn't this fun?'            |
-|Assignment 5          |`"Isn't this fun?"`            |"Isn't this fun?"            |
-|Assignment 6         |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
+|Assignment 5|`"Isn't this fun?"`            |"Isn't this fun?"            |
+|Assignment 6|`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
 
 
 ## KaTeX
