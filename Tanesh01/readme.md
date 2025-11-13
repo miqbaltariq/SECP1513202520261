@@ -29,3 +29,11 @@ You can delete the current file by clicking the **Remove** button in the file ex
 
 You can export the current file by clicking **Export to disk** in the menu. You can choose to export the file as plain Markdown, as HTML using a Handlebars template or as a PDF.
 
+|      No        |Assignment                     |Reflection                   |
+|----------------|-------------------------------|-----------------------------|
+|Assignment 1    |`'Isn't this fun?'`            |'Isn't this fun?'            |
+|Assignment 2    |`"Isn't this fun?"`            |"Isn't this fun?"            |
+|Assignment 3    |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
+|Assignment 4    |`'Isn't this fun?'`            |'Isn't this fun?'            |
+|Assignment 5    |`"Isn't this fun?"`            |"Isn't this fun?"            |
+|Assignment 6    |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
