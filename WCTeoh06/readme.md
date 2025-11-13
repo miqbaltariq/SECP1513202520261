@@ -40,3 +40,13 @@ SmartyPants converts ASCII punctuation characters into "smart" typographic punct
 |Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
 
 
+|No.|Reflection                     |Evidence                     |
+|---|-------------------------------|-----------------------------|
+| 1 |'Isn't this fun?'`             |'Isn't this fun?'            |
+| 2 |"Isn't this fun?"`             |"Isn't this fun?"            |
+| 3 |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
+| 4 |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
+| 5 |`'Isn't this fun?'`            |'Isn't this fun?'            |
+| 6 |`"Isn't this fun?"`            |"Isn't this fun?"            |
+
+
