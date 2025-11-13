@@ -38,3 +38,13 @@ SmartyPants converts ASCII punctuation characters into "smart" typographic punct
 |Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
 
 
+|       No         |Assignment                        |Date                       |     reflections |
+|----- |-----------------------------|------------------------|--------|
+|1 |          |           |
+| 2          |           |          |
+|  3         ||
+|   4              |                        |                        |
+| 5|            |           |
+|  6        |          |            |
+|  7        |||
+
