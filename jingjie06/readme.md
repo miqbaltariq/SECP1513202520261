@@ -28,3 +28,17 @@ You can delete the current file by clicking the **Remove** button in the file ex
 ## Export a file
 
 You can export the current file by clicking **Export to disk** in the menu. You can choose to export the file as plain Markdown, as HTML using a Handlebars template or as a PDF.
+
+## SmartyPants
+
+SmartyPants converts ASCII punctuation characters into "smart" typographic punctuation HTML entities. For example:
+
+|     NO           |       ASSIGNMENT                          |REFLECTIONS                         |
+|----------------|-------------------------------|-----------------------------|
+|1|Industry Talk           |How technologi change our life            |
+|2          |`"Isn't this fun?"`            |not fun            |
+|3          |`-- is en-dash, --- is em-dash`|boring|
+|4          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
+|5          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
+|6          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
+|7         |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
