@@ -1,4 +1,4 @@
-****Universiti** **Teknologi** **Malaysia****
+**Universiti** *Teknologi* ~~Malaysia~~
 
 # Welcome to StackEdit!
 
