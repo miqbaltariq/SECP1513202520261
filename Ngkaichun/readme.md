@@ -32,8 +32,11 @@ You can export the current file by clicking **Export to disk** in the menu. You 
 
 SmartyPants converts ASCII punctuation characters into "smart" typographic punctuation HTML entities. For example:
 
-|                |ASCII                          |HTML                         |
+|   NO           |Reflection                     |Evidence                     |
 |----------------|-------------------------------|-----------------------------|
-|Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
-|Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
-|Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
+|Assignment 1    |`'Isn't this fun?'`            |'Isn't this fun?'            |
+|Assignment 2    |`"Isn't this fun?"`            |"Isn't this fun?"            |
+|Assignment 3    |                               |-- is en-dash, --- is em-dash|
+|Assignment 4    |                               |                             |
+|Assignment 5    |                               |                             |
+|Assignment 6    |                               |                             |
