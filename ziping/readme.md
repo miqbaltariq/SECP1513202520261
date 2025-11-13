@@ -40,11 +40,11 @@ StackEdit extends the standard Markdown syntax by adding extra **Markdown extens
 SmartyPants converts ASCII punctuation characters into "smart" typographic punctuation HTML entities. For example:
 
 |No                |Reflection                          |Evidence                         |
-|----------------|-------------------------------|-----------------------------|
-|Assignment 1    |`'Isn't this fun?'`            |'Isn't this fun?'            |
-|Assignment 2    |`"Isn't this fun?"`            |"Isn't this fun?"            |
-|Assignment 3    |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
-|Assignment 4    |`'Isn't this fun?'`            |'Isn't this fun?'            |
-|Assignment 5    |`"Isn't this fun?"`            |"Isn't this fun?"            |
-|Assignment 6    |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
-|Assignment 7    |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
+|-----------------|-------------------------------|-----------------------------|
+|Assignment 1     |`'Isn't this fun?'`            |'Isn't this fun?'            |
+|Assignment 2     |`"Isn't this fun?"`            |"Isn't this fun?"            |
+|Assignment 3     |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
+|Assignment 4     |`'Isn't this fun?'`            |'Isn't this fun?'            |
+|Assignment 5     |`"Isn't this fun?"`            |"Isn't this fun?"            |
+|Assignment 6     |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
+|Assignment 7     |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
