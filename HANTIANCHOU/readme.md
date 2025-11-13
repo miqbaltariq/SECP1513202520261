@@ -39,4 +39,14 @@ SmartyPants converts ASCII punctuation characters into "smart" typographic punct
 |Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
 |Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
 
+## Technology and Information System
+| No |          Assignment           | Date | Reflection |
+|----|-------------------------------|------|------------|
+| 1  | Assignment 1                  |      |            |
+| 2  | Assignment 2                  |      |            |
+| 3  | Assignment 3                  |      |            |
+| 4  | Assignment 4                  |      |            |
+| 5  | Assignment 5                  |      |            |
+| 6  | Assignment 6                  |      |            |
+
 
