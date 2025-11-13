@@ -35,7 +35,7 @@ SmartyPants converts ASCII punctuation characters into "smart" typographic punct
 
 |     NO           |       ASSIGNMENT                          |REFLECTIONS                         |
 |----------------|-------------------------------|-----------------------------|
-|1|Industry Talk           |How technologi change our life            |
+|1|Industry Talk           |How technologi changed our life            |
 |2          |`"Isn't this fun?"`            |not fun            |
 |3          |`-- is en-dash, --- is em-dash`|boring|
 |4          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
