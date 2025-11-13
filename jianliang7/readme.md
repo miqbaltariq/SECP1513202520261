@@ -46,5 +46,5 @@ SmartyPants converts ASCII punctuation characters into "smart" typographic punct
 |   4              |                        |                        |
 | 5|            |           |
 |  6        |          |            |
-|  7        |||
+
 
