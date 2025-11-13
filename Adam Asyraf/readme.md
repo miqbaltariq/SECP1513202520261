@@ -1,4 +1,6 @@
 Universiti *Teknologi* ~~Malaysia~~
+# Welcome to StackEdit!
+
 Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
 
 
@@ -25,3 +27,11 @@ You can delete the current file by clicking the **Remove** button in the file ex
 ## Export a file
 
 You can export the current file by clicking **Export to disk** in the menu. You can choose to export the file as plain Markdown, as HTML using a Handlebars template or as a PDF.
+
+|  NO            |ASCII                          |REFLECTION                         |
+|----------------|-------------------------------|-----------------------------|
+| Assingment 1   |`'Isn't this fun?'`            |'Isn't this fun?'            |
+| Assingment 1   |`"Isn't this fun?"`            |"Isn't this fun?"            |
+| Assingment 1   |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
+| Assingment 1   |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
+| Assingment 1   |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
