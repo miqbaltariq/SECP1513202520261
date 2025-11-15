@@ -1,53 +1,8 @@
-**Universiti** *Teknologi* ~~Malaysia~~
-
-# Welcome to StackEdit!
-
-Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
-
-
-# Files
-
-StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
-
-## Create files and folders
-
-The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
-
-## Switch to another file
-
-All your files and folders are presented as a tree in the file explorer. You can switch from one to another by clicking a file in the tree.
-
-## Rename a file
-
-You can rename the current file by clicking the file name in the navigation bar or by clicking the **Rename** button in the file explorer.
-
-## Delete a file
-
-You can delete the current file by clicking the **Remove** button in the file explorer. The file will be moved into the **Trash** folder and automatically deleted after 7 days of inactivity.
-
-## Export a file
-
-You can export the current file by clicking **Export to disk** in the menu. You can choose to export the file as plain Markdown, as HTML using a Handlebars template or as a PDF.
-
-## SmartyPants
-
-SmartyPants converts ASCII punctuation characters into "smart" typographic punctuation HTML entities. For example:
-
-|                |ASCII                          |HTML                         |
-|----------------|-------------------------------|-----------------------------|
-|Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
-|Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
-|Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
-
-| Bil | Reflection | Evidence |
-|-----|-------------|-----------|
-| Assignment 1 |  |  |
-| Assignment 2 |  |  |
-| Assignment 3 |  |  |
-| Assignment 4 |  |  |
-| Assignment 5 |  |  |
-| Assignment 6 |  |  |
-| Assignment 7 |  |  |
-
-
-
+| **No** | **Assignment** | **Reflection** | **Evidence** |
+|-------|----------------|----------------|--------------|
+| Assignment 1 | Industry Visit to UTM Digital | We learned how technology improves efficiency and saves time across industries. We understood the importance of digital innovation, visual AI, and data-driven decision-making. The talks from Google Edle, Canon, and Digital Facilities Management showed how technology enhances productivity, maintenance, and safety. Overall, the visit was meaningful and eye-opening, inspiring us to keep learning and adapting to new digital trends. | [Photos & Video](https://drive.google.com/drive/folders/1aRJcgd_VUokTHC_kdPZJCj0u8q2xf4cX?usp=drive_link) |
+| Assignment 2 | PC Assemble (Lab Activity) | We dismantled and reassembled the motherboard, RAM, fan, power supply unit, wires, and storage. This activity helped us understand each component’s function and how they fit together. It strengthened our confidence in hardware handling, installation, and basic troubleshooting. Overall, it was an effective hands-on activity that improved our understanding of PC hardware. | *Evidence 2* |
+| Assignment 3 | Industry Talk by PPG | *Reflection 3* | *Evidence 3* |
+| Assignment 4 | Industry Talk: Online Global Classroom | *Reflection 4* | *Evidence 4* |
+| Assignment 5 | — | *Reflection 5* | *Evidence 5* |
+| Assignment 6 | — | *Reflection 6* | *Evidence 6* |
