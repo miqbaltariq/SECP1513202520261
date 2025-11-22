@@ -41,11 +41,11 @@ SmartyPants converts ASCII punctuation characters into "smart" typographic punct
 
 Technology Information System
 
-|       1         |ASCII                          |HTML                         |
+| assignment     |  link to check                |    description              |
 |----------------|-------------------------------|-----------------------------|
-|Assignment    2  |`'Isn't this fun?'`            |'Isn't this fun?'            |
-|Assignment    3      |`"Isn't this fun?"`            |"Isn't this fun?"            |
-|Assignment    4      |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
-|Assignment  5|`'Isn't this fun?'`            |'Isn't this fun?'            |
-|Assignment  6        |`"Isn't this fun?"`            |"Isn't this fun?"            |
-|Assignment 7          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
+|Assignment  1   |`'Isn't this fun?'`            |'Isn't this fun?'            |
+|Assignment  2   |`"Isn't this fun?"`            |"Isn't this fun?"            |
+|Assignment  3   |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
+|Assignment  4   |`'Isn't this fun?'`            |'Isn't this fun?'            |
+|Assignment  5   |`"Isn't this fun?"`            |"Isn't this fun?"            |
+|Assignment  6   |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
