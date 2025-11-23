@@ -1,44 +1,9 @@
-Universiti *Teknologi* ~~Malaysia~~
+| No          | Assignment                     | Description                     | Evidence                |
+|-------------|--------------------------------|-------------------------------|------------------------|
+| Assignment 1 | Industry Visit To UTM Digital (28 October 2025)|Thrilled to share my experience joining the Open Day UTM Digital , an eye-opening event that showcased how technology, innovation, and digital solutions are shaping the future at UTM! 🚀,<br>&nbsp;<br>This wasn’t just an exhibition, it was a chance to explore real digital initiatives, understand how systems operate behind the scenes, and see how UTM integrates technology to support learning, security, and campus life.<br>&nbsp;<br>My key takeaways from the Open Day:<br>&nbsp;<br>•	Discovered how UTM Digital manages campus IT infrastructure and services<br>•	Learned about the latest digital systems supporting students and staff<br>•	Saw demonstrations of cybersecurity, data management, and Dell Technologies<br>•	Had valuable conversations with UTM Digital staff about tech careers and future trends<br>&nbsp;<br>A huge thank you to UTM Digital and all the teams involved for organizing such an informative and inspiring event. This experience definitely motivated me to keep exploring the digital and tech field. 🌐✨<br>| Good use of quotes     |
+| Assignment 2 | `"Isn't this fun?"`            | `"Isn't this fun?"`           | Double quotes example  |
+| Assignment 3 | `-- is en-dash, --- is em-dash` | `-- is en-dash, --- is em-dash` | Dash usage explained  |
+| Assignment 4 | `'Isn't this fun?'`            | `'Isn't this fun?'`           | Repeated example       |
+| Assignment 5 | `"Isn't this fun?"`            | `"Isn't this fun?"`           | Repeated example       |
+| Assignment 6 | `-- is en-dash, --- is em-dash` | `-- is en-dash, --- is em-dash` | Repeated example      |
 
-# Welcome to StackEdit!
-
-
-Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
-
-
-# Files
-
-StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
-
-## Create files and folders
-
-The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
-
-## Switch to another file
-
-All your files and folders are presented as a tree in the file explorer. You can switch from one to another by clicking a file in the tree.
-
-## Rename a file
-
-You can rename the current file by clicking the file name in the navigation bar or by clicking the **Rename** button in the file explorer.
-
-## Delete a file
-
-You can delete the current file by clicking the **Remove** button in the file explorer. The file will be moved into the **Trash** folder and automatically deleted after 7 days of inactivity.
-
-## Export a file
-
-You can export the current file by clicking **Export to disk** in the menu. You can choose to export the file as plain Markdown, as HTML using a Handlebars template or as a PDF.
-
-## SmartyPants
-
-SmartyPants converts ASCII punctuation characters into "smart" typographic punctuation HTML entities. For example:
-
-|       No       |Reflection                     |Evidence                     |
-|----------------|-------------------------------|-----------------------------|
-|Assingment 1|`'Isn't this fun?'`            |'Isn't this fun?'            |
-|Assignment 2|`"Isn't this fun?"`            |"Isn't this fun?"            |
-|Assignment 3|`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
-|Assignment 4|`'Isn't this fun?'`            |'Isn't this fun?'            |
-|Assignment 5|`"Isn't this fun?"`            |"Isn't this fun?"            |
-|Assignment 6|`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
