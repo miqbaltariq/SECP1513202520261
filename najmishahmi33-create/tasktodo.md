@@ -1,4 +1,4 @@
-# 📝 Task To Complete
+# 📝 **Task To Complete**
 
 - [ ] **Poster TIS** — Due: 26 Nov 2025
 - [ ] **KIAR TEST** — On: 24 Nov 2025
