@@ -43,8 +43,8 @@ Technology Information System Assignment
 
 | assignment     |  link to check                |    description              |
 |----------------|-------------------------------|-----------------------------|
-|Assignment  1   | https://drive.google.com/file/d/1FuzxhEtSp4mVuGP0AuEudpa3pMgl05Of/view?usp=sharing)            |video vlog of industry visit           |
-|Assignment  2   |`"Isn't this fun?"`            |"Isn't this fun?"            |
+|Assignment  1   | https://drive.google.com/file/d/1FuzxhEtSp4mVuGP0AuEudpa3pMgl05Of/view?usp=sharing            |video vlog of industry visit           |
+|Assignment  2   | https://drive.google.com/file/d/1exQGbroLTuKCkNo71ZyiLypfuVo93Gqs/view?usp=sharing           |industry talk poster          |
 |Assignment  3   |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
 |Assignment  4   |`'Isn't this fun?'`            |'Isn't this fun?'            |
 |Assignment  5   |`"Isn't this fun?"`            |"Isn't this fun?"            |
