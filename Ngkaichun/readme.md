@@ -8,5 +8,5 @@
 |PC Assemble (Lab Activity)   |`"Isn't this fun?"`            |"Isn't this fun?"            |
 |Industry Talk: Online Global Classroom    |                               |-- is en-dash, --- is em-dash|
 |Industry Talk by PPG    |                               |                             |
-|Assignment 5    |                               |                             |
+|Industry Talk by Serunai Commerce    |                               |                             |
 |Assignment 6    |                               |                             |
