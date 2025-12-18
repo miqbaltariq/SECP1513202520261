@@ -35,7 +35,7 @@ SmartyPants converts ASCII punctuation characters into "smart" typographic punct
 
 |NO.  |EVENT |REFLECTION|EVIDENCE|
 |-----|----------------------------------|-----------------------------|-----------------------------|
-|1.   | Industry Visit to UTM Digital Open Day |||
+|1.   | Industry Visit 1(UTM Digital Open Day) |||
 |2.   | PC Assemble |||
 |3.   | Industry Talk 1 |-- is en-dash, --- is em-dash||
 |4.   | ASEAN Quantum Summit 2025|||
