@@ -39,13 +39,12 @@ SmartyPants converts ASCII punctuation characters into "smart" typographic punct
 |Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
 |Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
 
-Technology Information System Assignment
-
+Technology Information System Assignment  
 | assignment     |  link to check                |    description              |Reflection                         |
 |----------------|-------------------------------|-----------------------------|-----------------------------|
-|Assignment  1   | https://drive.google.com/file/d/1FuzxhEtSp4mVuGP0AuEudpa3pMgl05Of/view?usp=sharing            |video vlog of industry visit           |"Isn't this fun?"            |
-|Assignment  2   | https://drive.google.com/file/d/1exQGbroLTuKCkNo71ZyiLypfuVo93Gqs/view?usp=sharing            |industry talk poster          |"Isn't this fun?"            |
-|Assignment  3   |<img width="1040" height="468" alt="image" src="https://github.com/user-attachments/assets/9bf7fb1b-895e-445c-95ab-41461988cce2" />|Pc Lab Assemble              |'Isn't this fun?'            |
-|Assignment  4   |`'Isn't this fun?'`            |'Isn't this fun?'            |"Isn't this fun?"            |
+|Assignment  1   |    <img width="1040" height="468" alt="image" src="https://github.com/user-attachments/assets/9bf7fb1b-895e-445c-95ab-41461988cce2" />|Pc Lab Assemble              |Throughout the session, we assembled and examined different components, connected cables, and observed how each part contributes to the overall system. The session also included a quiz, which helped reinforce our understanding while making the learning process more interactive and engaging.|
+|Assignment  2   | https://drive.google.com/file/d/1FuzxhEtSp4mVuGP0AuEudpa3pMgl05Of/view?usp=sharing            |video vlog of industry visit           |This visit was a rewarding experience that helped us connect what we learn in the classroom with real industry practices. It improved our understanding of Technology & Information Systems, especially in areas like AI and digital data management.|
+|Assignment  3   | https://drive.google.com/file/d/1exQGbroLTuKCkNo71ZyiLypfuVo93Gqs/view?usp=sharing            |industry talk poster          |I learned about the company and was deeply attracted to it. I truly hope that this organization will have an even brighter future.
+|Assignment  4   |`'Isn't this fun?'`            |SERUNAI INDUSTRY TALK|I learned that not only coding skill but also skills such as critical thinking, problem-solving, effective communication, teamwork and time management are fundamental in real working environments. This made me realize that activities such as group projects and presentations in university are meaningful training experiences rather than mere academic tasks.    |
 |Assignment  5   |`"Isn't this fun?"`            |"Isn't this fun?"            |"Isn't this fun?"            |
 |Assignment  6   |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|"Isn't this fun?"            |
