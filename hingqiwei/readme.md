@@ -41,11 +41,11 @@ SmartyPants converts ASCII punctuation characters into "smart" typographic punct
 
 Technology Information System Assignment
 
-| assignment     |  link to check                |    description              |
-|----------------|-------------------------------|-----------------------------|
-|Assignment  1   | https://drive.google.com/file/d/1FuzxhEtSp4mVuGP0AuEudpa3pMgl05Of/view?usp=sharing            |video vlog of industry visit           |
-|Assignment  2   | https://drive.google.com/file/d/1exQGbroLTuKCkNo71ZyiLypfuVo93Gqs/view?usp=sharing           |industry talk poster          |
-|Assignment  3   |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
-|Assignment  4   |`'Isn't this fun?'`            |'Isn't this fun?'            |
-|Assignment  5   |`"Isn't this fun?"`            |"Isn't this fun?"            |
-|Assignment  6   |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
+| assignment     |  link to check                |    description              |Reflection                         |
+|----------------|-------------------------------|-----------------------------|-----------------------------|
+|Assignment  1   | https://drive.google.com/file/d/1FuzxhEtSp4mVuGP0AuEudpa3pMgl05Of/view?usp=sharing            |video vlog of industry visit           |"Isn't this fun?"            |
+|Assignment  2   | https://drive.google.com/file/d/1exQGbroLTuKCkNo71ZyiLypfuVo93Gqs/view?usp=sharing            |industry talk poster          |"Isn't this fun?"            |
+|Assignment  3   |<img width="1040" height="468" alt="image" src="https://github.com/user-attachments/assets/9bf7fb1b-895e-445c-95ab-41461988cce2" />|Pc Lab Assemble              |'Isn't this fun?'            |
+|Assignment  4   |`'Isn't this fun?'`            |'Isn't this fun?'            |"Isn't this fun?"            |
+|Assignment  5   |`"Isn't this fun?"`            |"Isn't this fun?"            |"Isn't this fun?"            |
+|Assignment  6   |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|"Isn't this fun?"            |
