@@ -1,11 +1,11 @@
 
-# About me
+# About Me!
 
 Hi! My name is Muhammad Farid Farhan Bin Japri. I'm first year Data Engineering student at Universiti Teknologi Malaysia. 
 
+# Assignment Reflection
 
-
-|          No      |Reflection                          |Evidence                       |
+|          No      |About                       |Reflection                          |Evidence                       |
 |----------------|-------------------------------|-----------------------------|
 |Assignment 1|`'Isn't this fun?'`            |'Isn't this fun?'            |
 |Assignment 2|`"Isn't this fun?"`            |"Isn't this fun?"            |
