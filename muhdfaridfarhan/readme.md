@@ -5,7 +5,7 @@ Hi! My name is Muhammad Farid Farhan Bin Japri. I'm first year Data Engineering 
 
 # Assignment Reflection
 
-|          No      |About                       |Reflection                          |Evidence                       |
+|          No      |Reflection                          |Evidence                       |
 |----------------|-------------------------------|-----------------------------|
 |Assignment 1|`'Isn't this fun?'`            |'Isn't this fun?'            |
 |Assignment 2|`"Isn't this fun?"`            |"Isn't this fun?"            |
