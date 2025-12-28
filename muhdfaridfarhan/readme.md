@@ -16,7 +16,8 @@ Hi! My name is Muhammad Farid Farhan Bin Japri. I'm first year Data Engineering 
 
 | No | About | Evidence | Reflection |
 |----------|----------|----------|----------|
-| Assignment 1    | Industry Visit 1: UTM Digital| Data     | Data     |
+| Assignment 1    | Industry Visit 1 (UTM Digital) \n Assesment: Video|  ![WhatsApp Image 2025-11-07 at 11 30 18_0aee2bac](https://github.com/user-attachments/assets/2e698316-6312-474e-98e0-a9c7bb3a5c0c)
+    | Data     |
 | Assignment 2    | Data     | Data     | Data     |
 | Assignment 3    | Data     | Data     | Data     |
 | Assignment 4    | Data     | Data     | Data     |
