@@ -14,14 +14,14 @@ Hi! My name is Muhammad Farid Farhan Bin Japri. I'm first year Data Engineering 
 |Assignment 5|`"Isn't this fun?"`            |"Isn't this fun?"            |
 |Assignment 6|`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
+| No | About | Evidence | Reflection |
 |----------|----------|----------|----------|
-| Row 1    | Data     | Data     | Data     |
-| Row 2    | Data     | Data     | Data     |
-| Row 3    | Data     | Data     | Data     |
-| Row 4    | Data     | Data     | Data     |
-| Row 5    | Data     | Data     | Data     |
-| Row 6    | Data     | Data     | Data     |
+| Assignment 1    | Industry Visit 1: UTM Digital| Data     | Data     |
+| Assignment 2    | Data     | Data     | Data     |
+| Assignment 3    | Data     | Data     | Data     |
+| Assignment 4    | Data     | Data     | Data     |
+| Assignment 5    | Data     | Data     | Data     |
+| Assignment 6    | Data     | Data     | Data     |
 
 
 
