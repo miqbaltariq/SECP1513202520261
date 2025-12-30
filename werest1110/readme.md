@@ -10,7 +10,9 @@ I am a motivated student currently taking Data Engineering in UTM Skudai. Throug
 # Assignment with Refelction
 |  No  |  Assignment  |  Reflection  |  Evidence
 | -|-|-|-
-|Assignment | Industry visit 1 ||
-|Assignment 2 | Industry talk 1 | |
-|Assignment 3 | Industry talk 2 | |
-|Assignment 4 | Industry visit 2 | |
+|Assignment 1 | Industry visit 1 ||
+|Assignment 2 | PC Assemble Lab | |
+|Assignment 3 | Industry talk 1 | |
+|Assignment 4 | Industry talk 2 | |
+|Assignment 5 | Industry visit 2 | |
+|Assignment 6 | Design Thinking | |
