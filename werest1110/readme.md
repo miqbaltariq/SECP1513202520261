@@ -1,4 +1,4 @@
-<img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/66763e9f-6c06-4bf8-b94b-c46aa6a17f8b" /># About Me
+# About Me
 **Name**            : *LING YU AN*
 
 **Course**          : *Technology and Information System*
