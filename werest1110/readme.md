@@ -1,4 +1,4 @@
-# About Me
+<img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/66763e9f-6c06-4bf8-b94b-c46aa6a17f8b" /># About Me
 **Name**            : *LING YU AN*
 
 **Course**          : *Technology and Information System*
@@ -15,4 +15,5 @@ I am a motivated student currently taking Data Engineering in UTM Skudai. Throug
 |Assignment 3 | Industry talk 1 | |
 |Assignment 4 | Industry talk 2 |First and foremost, the industry talks really shift my perspective on how to success in computer science. I see that being successful is not only about technical skills, but also communication. The speaker pointed out that choosing between the Waterfall and Agile is like how we plan our lifestyle. So, I had to plan carefully and stay calm when unexpected problems came toward me. In the next four years, I will focus on improving my coding skills at the same time, also strengthening my communication, teamwork, as well as problem-solving abilities. By combining these characteristics, I believe that I can better connect my work to real world applications and work effectively with others, which is vital for success in computer science  | g
 |Assignment 5 | Industry visit 2 | |
+
 |Assignment 6 | Design Thinking | |
