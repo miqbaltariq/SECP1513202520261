@@ -32,13 +32,13 @@ You can export the current file by clicking **Export to disk** in the menu. You 
 
 SmartyPants converts ASCII punctuation characters into "smart" typographic punctuation HTML entities. For example:
 
-|     No      |Date                       |Assignments                         |Reflection                         |
+|     No      |Date            |Assignments                         |Reflection                         |
 |----------------|-------------------------------|-----------------------------|-----------------------------|
-|1|`'Isn't this fun?'`            |'Isn't this fun?'            |Assignment 1|
-|2|`"Isn't this fun?"`            |"Isn't this fun?"            |Assignment 1|
-|3|`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|Assignment 1|
-|4|`'Isn't this fun?'`            |'Isn't this fun?'            |Assignment 1|
-|5|`"Isn't this fun?"`            |"Isn't this fun?"            |Assignment 1|
+|1|`'Isn't this fun?'`            |'PC Assemble'            |Assignment 1|
+|2|`"Isn't this fun?"`            |"Poster : Industry Talk 1"            |Assignment 1|
+|3|`-- is en-dash, --- is em-dash`|Video : Industrial Visit 1|Assignment 1|
+|4|`'Isn't this fun?'`            |'Academic Writing : Industry Talk 2 '            |Assignment 1|
+|5|`"Isn't this fun?"`            |"Industrial Visit 2"            |Assignment 1|
 |6|`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|Assignment 1|
 
 
