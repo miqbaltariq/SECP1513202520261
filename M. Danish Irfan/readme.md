@@ -1,46 +1,11 @@
-**Universiti** *Teknologi* ~~Malaysia~~
-# Welcome to StackEdit!
-
-Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
-
-
-# Files
-
-StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
-
-## Create files and folders
-
-The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
-
-## Switch to another file
-
-All your files and folders are presented as a tree in the file explorer. You can switch from one to another by clicking a file in the tree.
-
-## Rename a file
-
-You can rename the current file by clicking the file name in the navigation bar or by clicking the **Rename** button in the file explorer.
-
-## Delete a file
-
-You can delete the current file by clicking the **Remove** button in the file explorer. The file will be moved into the **Trash** folder and automatically deleted after 7 days of inactivity.
-
-## Export a file
-
-You can export the current file by clicking **Export to disk** in the menu. You can choose to export the file as plain Markdown, as HTML using a Handlebars template or as a PDF.
-
-## SmartyPants
-
-SmartyPants converts ASCII punctuation characters into "smart" typographic punctuation HTML entities. For example:
-
-|NO        |Reflection                     |Review|
-|----------|-------------------------------|-----------------------------|
-|1         |                               |                             |
-|2         |                               |                             |
-|3         |                               |                             |
-|4         |                               |                             |
-|5         |                               |                             |
-|6         |                               |                             |             
-
+|      No.        |        Assignment             |        Reflection|    Evidence       |
+|----------------|-------------------------------|-----------------------------|-------------------|
+| Assingment 1   |Industry Visit To UTM Digital Open Day (28 October 2025)            |'Isn't this fun?'            |![WhatsApp Image 2025-10-28 at 17 24 32_efe2cde4](https://github.com/user-attachments/assets/0fbfdbce-960a-4564-ae41-67ec5e83f780) <img width="1026" height="621" alt="image" src="https://github.com/user-attachments/assets/0a461641-2fbe-45f4-873b-44956b45822d" /> 
+| Assingment 2   |PC Maintenance (30 October 2025)         |From the PC maintenance, I learned how to disassemble and assemble a PC, and I also learned the parts in the PC, which are the RAM, cables, fan, hard disk, and power supply. Actually, it is not too hard to do that. I gained more confidence to assemble and disassemble the PC properly with the correct steps. From this knowledge, I will be able to build my own PC next time without needing to send it to a shop, which is quite expensive. This is my reflection from my PC maintenance.          |<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/4cf8ca09-6ceb-45f1-b89e-3419b1129316" />|
+| Assingment 3   |Online Global Classroom (18 November 2025)|From the talk, I gained valuable knowledge and a much deeper understanding of the crucial elements required for Building Trust in Intelligent Systems. I closely followed the expert explanations covering Artificial Intelligence, Cybersecurity, the synergy of Blockchain, and AI Ethics, which reinforced that designing trustworthy systems requires secure, ethical, and transparent frameworks. I now feel more confident in navigating and discussing the multifaceted challenges of responsible AI development, knowledge that will be highly beneficial as I move forward.|![WhatsApp Image 2025-11-13 at 20 16 31_9542a925](https://github.com/user-attachments/assets/84f09ed4-fcc8-468c-b060-296778666e3e ) <img width="1920" height="1080" alt="Screenshot 2025-11-18 160834" src="https://github.com/user-attachments/assets/1b96dc5e-3bfa-4cff-89cd-4523e6db846f" />|
+| Assingment 4   |PPG Industry Talk (20 November 2025)|Attending the PPG Digital IT presentation was truly eye-opening. Before the talk, I wasn't even aware PPG was a coating company, so I was genuinely shocked to learn it is actually the second largest coating company in the world—this massive scale immediately framed the discussion on digital transformation. The presentation clearly demonstrated that success in modern technology requires integrating strong data skills with an understanding of global business strategy and sustainability. Key takeaways include the necessity of transitioning from academic environments to handling huge, messy cloud datasets using tools like Azure, Databricks, and Python to solve real-world problems. The organization is aggressively driving digital transformation through a Cloud-Native, AIOps, and Zero-Trust infrastructure. Furthermore, the extensive MYTC Internship Program highlights direct pathways for talent to contribute to PPG's core business and ambitious 2030 Sustainability Goals, proving that IT innovation is key to both operational efficiency and environmental impact.|![WhatsApp Image 2025-11-20 at 09 08 42_288fed08](https://github.com/user-attachments/assets/9528b928-909a-4df7-9d05-f1d7046cef28) ![WhatsApp Image 2025-11-20 at 20 59 24_12af0a01](https://github.com/user-attachments/assets/6952b25c-c47a-4a10-8f21-113db6d3a829)  ![1](https://github.com/user-attachments/assets/cd43e674-4363-4b7e-8ace-8b7bc8e42b29) |
+| Assingment 5   | ASEAN Quantum Summit (11 December 2025)        |  Attending the ASEAN Quantum Summit 2025 at Universiti Teknologi Malaysia was a proud moment as a UTM student, where I witnessed inspiring officiation by our Vice-Chancellor and the Chief Minister of Johor, followed by plenary talks from Prof. Dr. Masahiro Kitagawa of the University of Osaka and Mr. Ling Keok Tong of Singapore’s National Quantum Office. Their insights emphasized how quantum technologies are advancing globally and how ASEAN must strengthen collaboration to remain at the forefront. The summit reminded me that breakthroughs in this field depend not only on technical expertise but also on strong partnerships, and it motivated me to continue learning and contributing to the growing quantum ecosystem in our region.      |<img width="608" height="740" alt="image_2025-12-12_14-51-58" src="https://github.com/user-attachments/assets/739812da-a959-4c59-86cf-8f342b1aa4ef" /> ![WhatsApp Image 2025-12-11 at 22 39 01_165a6b72](https://github.com/user-attachments/assets/d1cf9d71-c480-49cd-9959-2b4553c93676)|
+|Assingment 6    |       |              |       |
 
 
 
