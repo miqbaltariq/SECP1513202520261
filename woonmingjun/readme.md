@@ -1,44 +1,11 @@
-**Universiti** *Teknologi* ~~Malaysia~~
+### Assignment Reflection Log
 
-# Welcome to StackEdit!
-
-Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
-
-
-# Files
-
-StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
-
-## Create files and folders
-
-The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
-
-## Switch to another file
-
-All your files and folders are presented as a tree in the file explorer. You can switch from one to another by clicking a file in the tree.
-
-## Rename a file
-
-You can rename the current file by clicking the file name in the navigation bar or by clicking the **Rename** button in the file explorer.
-
-## Delete a file
-
-You can delete the current file by clicking the **Remove** button in the file explorer. The file will be moved into the **Trash** folder and automatically deleted after 7 days of inactivity.
-
-## Export a file
-
-You can export the current file by clicking **Export to disk** in the menu. You can choose to export the file as plain Markdown, as HTML using a Handlebars template or as a PDF.
-
-## SmartyPants
-
-SmartyPants converts ASCII punctuation characters into "smart" typographic punctuation HTML entities. For example:
-
-|No.             |Reflection                     |Evidence                     |
-|----------------|-------------------------------|-----------------------------|
-|Assignment 1    |`'Isn't this fun?'`            |'Isn't this fun?'            |
-|Assignment 2    |`"Isn't this fun?"`            |"Isn't this fun?"            |
-|Assignment 3    |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
-|Assignment 4    |`'Isn't this fun?'`            |'Isn't this fun?'            |
-|Assignment 5    |`'Isn't this fun?'`            |'Isn't this fun?'            |
-|Assignment 6    |`'Isn't this fun?'`            |'Isn't this fun?'            |
-
+| No. | Date Completed | Assignment/Topic | Reflection | Evidence |
+| :---: | :---: | :--- | :--- | :--- |
+| 1 | 28<sup>th</sup> October 2025 | UTMDIGITAL Open Day| My friends and I had the opportunity to attend the UTMDigital Open Day, where we gained valuable insights into how modern technology is applied in the real world. We attended several talks that explained how current technologies are shaping different sectors of society in Malaysia. We learned how AI-powered systems are being used in areas such as healthcare and facility management to improve safety, efficiency, and data-driven decision-making. The speakers also encouraged us as data engineering students to stay committed to our studies and future careers. Overall, the visit enhanced my understanding of how Malaysian companies are driving technological innovation and motivated me to explore future opportunities in the IT industry.| [Photos](https://drive.google.com/drive/folders/1wuJ0MkYD25X81fcuEpv0RtBEyGwLvJZl?usp=drive_link)  |
+| 2 | 30<sup>th</sup> October 2025 | PC Maintenance | During the Technology Information Systems course at Universiti Teknologi Malaysia (UTM), my group and I were involved in a practical PC maintenance session. We learned how to take apart a computer and carefully put it back together under the supervision of lab assistants. Through this activity, we gained a better understanding of how hardware components are arranged and how they work together to run a system. The session was both engaging and educational, making it a valuable hands-on learning experience.| [Photos](https://drive.google.com/drive/folders/1_qH5t3iG8_HlZ1C329c0dNXeVvNhjuW3?usp=drive_link)|
+| 3 | 18<sup>th</sup> November 2025 | Online Global Classroom “Building Trust in Intelligent Systems”.| The classroom highlighted how AI can be misused in cyberattacks and the importance of being cautious when sharing information online. It also emphasized that trust in AI depends on ethical development, data privacy, and transparency. In addition, the use of blockchain alongside AI was discussed as a way to improve data security, accountability, and digital trust. Overall, the session helped me better understand that advanced technologies should not only be innovative, but also ethical, secure, and trustworthy.| [Photos](https://drive.google.com/drive/folders/1ZAWt2FQTbULSfNAAGZ6zUhG3MFTpNtCA?usp=drive_link)|
+| 4 | 20<sup>th</sup> November 2025 | Industry Talk by PPG | This session provided valuable insights into how these fields contribute to the operations of a global company like PPG. Department heads and team leads shared strategies, technologies, and real-world applications, emphasizing the crucial role of data analytics, IT infrastructure, and enterprise systems in driving innovation and supporting business processes. The talk also highlighted the opportunities available for hardworking talent within the company, encouraging us to develop the skills needed to succeed in these areas. Overall, the session helped me understand why these fields remain essential in today’s digital-driven industry and motivated me to equip myself with the relevant skills to better seize future career opportunities. | [Photos](https://drive.google.com/drive/folders/1UixFh4Lr7Mg1KEOpn3NS5lku4L-1dzbA?usp=drive_link) |
+| 5 | 11<sup>th</sup> December 2025 | Asean Quantum Summit | I attended this ASEAN Summit, where experts and policymakers shared insights on Johor’s plans to support deep-tech growth and establish itself as a future technology hub. I learned about various applications of quantum technologies, including quantum computing and quantum biology, and how they relate to computer science, data engineering, and smart city initiatives. The summit broadened my understanding of emerging technologies and their potential impact, and it was an inspiring experience that encouraged me to explore future opportunities in this field.| [Photos](https://drive.google.com/drive/folders/1x9lXVKfg26NeogbgpOO24JcnZwvuh2si?usp=drive_link) |
+| 6 | 18<sup>th</sup> December 2025 | Industry Talk by Serunai Commerce Sdn. Bhd. | I attended a talk by Ts. Hj. Abdul Alim bin Abdul Muttalib on system development and project management. The session covered the Software Development Life Cycle (SDLC), which includes planning, analysis, design, implementation, and maintenance, as well as project management approaches such as Waterfall and Agile. The talk also highlighted the rise of AI-assisted or agentic coding, showing how AI can handle repetitive tasks and allow developers to focus on complex problem-solving. Overall, I learned that success in computer science requires more than technical skills. Key abilities such as project management, system design, and AI-assisted development are essential to stay competitive and prepare for future career opportunities. | [Photos](https://drive.google.com/drive/folders/1SATPx9i-FEWfD6cMbgJaXslvj2EvuusL?usp=drive_link) |
+| 7 | 15<sup>th</sup> January 2026 | Industry Visit to eTiQa | My coursemates and I visited eTiQa as part of an industrial visit, led by our lecturer, Ts. Dr. Muhammad Iqbal Tariq bin Idris, to gain insight into a real-world working environment. During the visit, we were introduced to key roles such as data analysts, data engineers, and business analysts, and learned how these roles work together to ensure high-quality customer service. The session also emphasized the growing demand for data engineers in large organizations, as they play a crucial role in managing and processing the large volumes of data that support business operations. Overall, this visit was a valuable learning experience. It allowed me to observe firsthand how a company operates, how its systems function, and how teams collaborate effectively to achieve organizational goals. The insights gained from this visit have deepened my understanding of industry practices and the skills required to succeed in a professional setting.| [Photos](https://drive.google.com/drive/folders/1XEnQ3YCwmQQYgj0vgEDkvwLDxefDqkkj?usp=drive_link) |
