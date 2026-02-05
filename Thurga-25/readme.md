@@ -1,9 +1,9 @@
 
 
 
-| NO             |ASSIGNMENT                     |EVIDENCE                     |EVIDENCE               |
+| NO             |ASSIGNMENT                     |REFLECTION                   |EVIDENCE               |
 |----------------|-------------------------------|-----------------------------|-----------------------|
-|1               |                               |                             |                       |
+|1               |Industrial visit to UTMDIGITAL                               |                             |                       |
 |2               |                               |                             |                       |
 |3               |                               |                             |                       |
 |4               |                               |                             |                       |
