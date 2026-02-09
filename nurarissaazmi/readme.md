@@ -22,8 +22,7 @@ This repository contains my reflections, assignments, activities, and evidence t
 
 
 ---
-
-<details>
+<details> 
     <summary>📂 Repository Structure</summary>
 
 ![photo_2026-02-09_00-24-19](https://github.com/user-attachments/assets/abf8e03b-a638-4b18-a789-f1d36e9521d2)
