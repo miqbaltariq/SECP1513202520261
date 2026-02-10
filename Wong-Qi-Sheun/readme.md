@@ -1,4 +1,4 @@
-## SmartyPants
+## Technology Information System
 
 |No.             |Assignments                    |Date                         |Reflections                   |
 |----------------|-------------------------------|-----------------------------|----------------------------- |
