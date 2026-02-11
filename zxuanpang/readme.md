@@ -1,52 +1,11 @@
-**Universiti** *Teknologi* ~~Malaysia~~
 
-# Welcome to StackEdit!
-
-Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
-
-
-# Files
-
-StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
-
-## Create files and folders
-
-The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
-
-## Switch to another file
-
-All your files and folders are presented as a tree in the file explorer. You can switch from one to another by clicking a file in the tree.
-
-## Rename a file
-
-You can rename the current file by clicking the file name in the navigation bar or by clicking the **Rename** button in the file explorer.
-
-## Delete a file
-
-You can delete the current file by clicking the **Remove** button in the file explorer. The file will be moved into the **Trash** folder and automatically deleted after 7 days of inactivity.
-
-## Export a file
-
-You can export the current file by clicking **Export to disk** in the menu. You can choose to export the file as plain Markdown, as HTML using a Handlebars template or as a PDF.
-
-## SmartyPants
-
-SmartyPants converts ASCII punctuation characters into "smart" typographic punctuation HTML entities. For example:
-
-|                |ASCII                          |HTML                         |
-|----------------|-------------------------------|-----------------------------|
-|Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
-|Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
-|Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
-
-
-## Technology Information System
-
-|No.             |Assignments                    |Date                         |Reflection                   |
-|----------------|-------------------------------|-----------------------------|-----------------------------|
-|1               | | |
-|2               | | |
-|3               | | |
-|4               | | |
-|5               | | |
-|6               | | |
+| No | Assignment | Date | Reflection | Evidence |
+|----|------------|------|------------|----------|
+| 1 | Industry Visit 1: UTM Digital | 28 Oct 2025 | The visit to UTM Digital provided me with a clearer understanding of how digital infrastructure supports university operations at an institutional level. I learned how AI-enabled devices, centralized monitoring systems, and integrated digital platforms improve efficiency, safety, and data-driven decision-making. This experience allowed me to connect theoretical knowledge from Information Systems courses to real-world implementation. One improvement would be to include more interactive demonstrations or short technical walkthroughs to deepen students’ understanding. Overall, the visit broadened my perspective on digital transformation and strengthened my interest in system integration and emerging technologies. | [Photos](https://drive.google.com/drive/folders/1k03kGr7RzLNAjcqNkwYLFW-YJORydSXB?usp=drive_link), [Video](https://youtu.be/vZQgtLjaKFM) |
+| 2 | PC Assemble (Lab) | 30 Oct 2025 | The PC assembly lab gave me valuable hands-on exposure to computer hardware components such as the motherboard, RAM, storage devices, power supply unit, and cooling systems. By dismantling and reassembling the PC, I gained a practical understanding of how each component functions and connects within a complete computing system. This activity enhanced my technical confidence and improved my problem-solving ability when handling hardware. A possible improvement would be to incorporate structured troubleshooting tasks so students can practice diagnosing common hardware issues. This session reminded me that strong foundational knowledge of hardware complements software development skills and strengthens overall technical competence. | Photos |
+| 3 | Industry Talk: Online Global Classroom | 18 Nov 2025 | The Online Global Classroom session expanded my understanding of the relationship between artificial intelligence, cybersecurity, blockchain, and digital trust. I learned that AI technologies can both defend against and contribute to cyber threats, highlighting the importance of ethical awareness and responsible system design. The discussion emphasized that technical innovation must always be balanced with governance, transparency, and accountability. An improvement could be allocating more time for interactive discussion or case-based analysis. This talk encouraged me to think critically about the ethical implications of the technologies I may develop in the future and reinforced the importance of lifelong learning in a rapidly evolving digital landscape. | Photos |
+| 4 | Industry Talk 1: PPG | 20 Nov 2025 | Through the industry talk by PPG, I gained deeper insight into how global enterprises utilize data analytics, cloud infrastructure, and ERP systems such as SAP to manage large-scale operations. I understood how structured databases, cloud platforms, and business intelligence tools support decision-making and operational efficiency. The session helped me see the real-world relevance of SQL, data modeling, and system integration concepts learned in class. A live system demonstration or dashboard walkthrough could further enhance understanding. This talk motivated me to strengthen my data-related skills and prepare myself for roles that require both technical and analytical capabilities. | Photos, Poster |
+| 5 | ASEAN Quantum Summit 2025 | 11 Dec 2025 | Attending the ASEAN Quantum Summit broadened my knowledge of emerging technologies, particularly quantum computing and its potential integration with artificial intelligence. I learned that technological advancement requires long-term strategic planning, collaboration between nations, and strong research ecosystems. The summit exposed me to regional efforts in developing advanced computing capabilities and innovation networks. One improvement would be simplifying certain technical explanations for undergraduate audiences. Overall, this experience inspired me to stay informed about deep-technology developments and consider how foundational computing knowledge may evolve in the future. | Photos |
+| 6 | Industry Talk 2: Serunai Commerce | 18 Dec 2025 | The talk by Serunai Commerce emphasized the importance of structured development processes and understanding the Software Development Life Cycle (SDLC). I realized that successful systems require careful requirement analysis, planning, architecture design, and continuous evaluation rather than rushing directly into coding. The discussion of Agile and Waterfall methodologies helped me appreciate the need to adapt development strategies based on project context. Including a practical case study would further strengthen understanding. This session reinforced my awareness that technical expertise must be supported by professional discipline, teamwork, and effective communication skills to become industry-ready. | Photos, Report |
+| 7 | Industry Visit 2: Etiqa Insurance | 15 Jan 2026 | The visit to Etiqa Insurance provided insight into how large-scale integrated information systems operate within the financial and insurance sector. I learned how digital platforms manage policies, claims processing, risk assessment, and customer data while ensuring compliance and security. Observing how data-driven systems support real-time decision-making helped me understand the scale and complexity of enterprise environments. A brief system walkthrough would enhance visualization of operational workflows. This visit strengthened my appreciation for aligning technical solutions with business objectives and highlighted the importance of both technical and soft skills in professional settings. | Photos, Newsletter |
+| 8 | Design Thinking (Low Fidelity Prototype) | 29 Jan 2026 | The design thinking project taught me that effective system development begins with understanding user needs rather than focusing solely on technical implementation. Through interviews, problem definition, ideation, prototyping, and testing, I learned the importance of empathy, iterative improvement, and evidence-based decision-making. This process allowed me to see how user feedback shapes practical and meaningful solutions. An improvement would be involving a wider group of users during the testing phase to gather more diverse perspectives. Overall, this project strengthened my awareness of user-centered design principles and encouraged me to develop systems that are both technically sound and socially impactful. | Photos, Video, Report |
