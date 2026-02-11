@@ -1,54 +1,16 @@
 **Universiti** *Teknologi* ~~Malaysia~~
 
-# Welcome to StackEdit!
-
-Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
-
-
-# Files
-
-StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
-
-## Create files and folders
-
-The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
-
-## Switch to another file
-
-All your files and folders are presented as a tree in the file explorer. You can switch from one to another by clicking a file in the tree.
-
-## Rename a file
-
-You can rename the current file by clicking the file name in the navigation bar or by clicking the **Rename** button in the file explorer.
-
-## Delete a file
-
-You can delete the current file by clicking the **Remove** button in the file explorer. The file will be moved into the **Trash** folder and automatically deleted after 7 days of inactivity.
-
-## Export a file
-
-You can export the current file by clicking **Export to disk** in the menu. You can choose to export the file as plain Markdown, as HTML using a Handlebars template or as a PDF.
-
-## SmartyPants
-
-SmartyPants converts ASCII punctuation characters into "smart" typographic punctuation HTML entities. For example:
-
-|                |ASCII                          |HTML                         |
-|----------------|-------------------------------|-----------------------------|
-|Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
-|Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
-|Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
-
 
 ## Technology Information System
-| No |Assignment                        |reflection                      |
-|----------------|-------------------------------|-----------------------------|
-|1| |    |
-|2      |   |       |
-|3      |||
-|4|||
-|5    || |
-|6        |||
-
+| No |Assignment                        |reflection                      |evidemce|
+|----------------|-------------------------------|-----------------------------|------------------------|
+| Assignment 1 | Industry Talk by PPG | From the industry talk by PPG, I gained valuable insight into how information technology supports large-scale business operations. I learned that data-driven decision-making plays a crucial role in improving efficiency and performance. Concepts such as ERP analytics, master data management, data lakes, and MLOps showed me how companies integrate technology into daily operations. The “Plan, Build, Run” framework also helped me understand how IT infrastructure is systematically managed within an organization. This session broadened my awareness of the technical skills and industry knowledge required to succeed in the IT field.   ||
+| Assignment 2 | Industry Visit to UTM Digital |The visit to UTM Digital exposed me to real-world applications of emerging technologies. I observed how innovations such as AI-integrated devices, advanced imaging systems, and certification technologies are implemented to enhance productivity and improve quality of life. This experience helped me realize that technology is not only about development but also about solving practical problems efficiently. The visit motivated me to continuously upgrade my knowledge and adapt to the rapidly evolving digital landscape.       ||
+| Lab | PC Assemble (Lab Activity) |Through the PC assembly lab activity, I developed a clearer understanding of computer hardware components and their functions. By assembling and disassembling the PC myself, I gained hands-on experience that strengthened my technical confidence. This activity sparked my interest in building and customizing my own computer in the future. It also taught me the importance of practical skills, as they enable us to troubleshoot issues independently and better understand the systems we use daily||
+| Industry Talk | Industry Talk: Online Global Classroom |This talk emphasized the widespread application of Artificial Intelligence across various sectors, including government, web services, and blockchain technology. I learned that while AI offers many benefits, ethical considerations and responsible usage are equally important. The discussion on cybersecurity risks and regulatory guidelines made me aware of the responsibilities developers hold when creating AI-based systems. It reminded me that innovation must always align with ethical standards and societal well-being ||
+| Event | ASEAN Quantum Summit 2025 |The ASEAN Quantum Summit deepened my understanding of how quantum technology is rapidly progressing worldwide. I learned that ASEAN countries are actively investing in quantum research and collaboration to remain competitive. The summit inspired me to explore advanced technologies beyond traditional IT fields. It also encouraged young individuals like me to stay curious, innovative, and adaptable in preparation for future technological breakthroughs.||
+| Assignment 3 | Industry Talk by Serunai Commerse |From this talk, I realized the importance of project management skills in software and system development. Effective coordination and task distribution are essential to ensure smooth project execution. I also learned about the growing role of AI agents in supporting development processes. This session helped me understand that a developer should not only focus on coding but also develop leadership and system architecture skills to manage complex projects effectively.||
+| Assignment 4 | Industry Visit to Etiqa |The industry visit to Etiqa provided me with a clearer picture of how data professionals collaborate in real-world environments. I understood the roles of data analysts, data engineers, and business analysts, and how their combined efforts contribute to impactful solutions. Seeing how AI is applied in insurance claim automation made the learning experience more meaningful and relevant. I also realized that technical skills such as SQL and Python are powerful when combined with strong communication abilities to translate insights into business value.||
+| Project | Design Thinking (Low fidelity Prototype) |Through the Design Thinking project, I experienced the full cycle of problem-solving — from identifying user needs to developing a prototype solution. This project strengthened my analytical thinking and teamwork skills, as collaboration and communication were essential throughout the process. It helped me understand that successful solutions must balance technical feasibility with user requirements. Although we developed a low-fidelity prototype, the experience motivated me to further enhance the idea into a fully functional application in the future.||
 
 
