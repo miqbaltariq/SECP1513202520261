@@ -1,5 +1,3 @@
-Universiti Teknologi Malaysia
-
 ## Assignments of Technology and Information System(SECP 1513)
 
 |No|Assignment      |       Reflection                 |Evidence   |
