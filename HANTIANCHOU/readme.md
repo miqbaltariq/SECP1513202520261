@@ -4,8 +4,8 @@
 |----|---------|-----------|------- |
 | 1  |Industry Talk: PPG|Through the talk, i understand how importance a programmer since even a painting company require programmer to handle clients data and a series of work. The talk also helping me to get deep into what a cloud computing is and how a big organisation utilizing it .Overall, this talk motivated me to further equip myself with both technical and analytical skills. Moving forward, I aim to strengthen my knowledge in data analytics tools, cloud technologies, and AI-related concepts to better prepare myself for real-world industry environments. |[View poster](ASSIGNMENT%20INDUSTRIAL%20TALK%201.pdf)
 |
-| 2  |Industry Visit: UTM Digital |Thorugh the visit, i had gained valueble insight from each seesion.From the talk given i get to know the trend of the world which is AI.Not only that,from the interview, we get to know that being prepare as a programmmer need to equipped ourselves with different programming language and constantly improve ourself even after getting employee is important as well.|[]|                     
-| 3  |PC Assemble                   
+| 2  |Industry Visit: UTM Digital |Thorugh the visit, i had gained valueble insight from each seesion.From the talk given i get to know the trend of the world which is AI.Not only that,from the interview, we get to know that being prepare as a programmmer need to equipped ourselves with different programming language and constantly improve ourself even after getting employee is important as well.|[View video](Assignment2video.mp4)|                     
+| 3  |PC Assemble |Through this activity, i gain some basic knowledge of assembling pc.Not only that, some common sense was told too such as unplugging the power cable before doing anything.ALthough it is seems basic, these knowledges are vital to avoid damaging pc.||                  
 | 4  |Industry Talk: Online Global Classroom|On 18 November 2025, I attended an Online Global Classroom: "Building Trust in Intelligent Systems".Through the talk |![picture](industry_talk_onlineglobalclassroom.png)|
          
 | 5  |ASEAN Quantum Summit 2025       
