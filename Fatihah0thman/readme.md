@@ -3,7 +3,6 @@
 |  No  |    Assignments      |                Reflection              |      Evidence          |
 |------|---------------------|----------------------------------------|------------------------|
 |1|Industry Visit 1 - UTM Digital    |'PC Assemble'            |Assignment 1|
-
 |2|Lab - PC Assemble          |We did a hands-on activity about how to assemble and disassemble a PC. I learned about all the important components that make a PC work properly such as PC casing, cables, power supply, RAM, hard disk, and CPU fan.
 We also learned how to assemble each part in the correct position so the PC can function well. This activity gave me a lot of new knowledge and practical experience, especially in understanding PC hardware components and their functions.            |Assignment 1|
 |3|`Industry Talk 1 - PPG`|I gained a better understanding of how ICT roles support real business operations and digital transformation in a global organization. I learned how data analytics turns raw data into meaningful insights and why skills such as SQL, Python, and data visualization are important in the industry. The talk also helped me understand cloud infrastructure management using the Plan–Build–Run model and the use of multi-cloud platforms such as AWS. In addition, I learned how SAP supports core business processes as a single source of truth. Overall, this industry talk motivated me to improve my technical skills and better prepare myself for future challenges in the ICT industry.|Assignment 1|
