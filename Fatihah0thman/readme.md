@@ -1,7 +1,7 @@
 
 
-|     No      |Assignments            |Reflection                         |Evidence                         |
-|----------------|-------------------------------|-----------------------------|-----------------------------|
+|  No  |    Assignments      |                Reflection              |      Evidence          |
+|------|---------------------|----------------------------------------|------------------------|
 |1|`Industry Visit 1 - UTM Digital`            |'PC Assemble'            |Assignment 1|
 |2|`Lab - PC Assemble`            |We did a hands-on activity about how to assemble and disassemble a PC. I learned about all the important components that make a PC work properly such as PC casing, cables, power supply, RAM, hard disk, and CPU fan.
 We also learned how to assemble each part in the correct position so the PC can function well. This activity gave me a lot of new knowledge and practical experience, especially in understanding PC hardware components and their functions.            |Assignment 1|
