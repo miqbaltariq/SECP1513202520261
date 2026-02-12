@@ -1,9 +1,5 @@
 
-# About Me!
-
-Hi! My name is Farid. I'm first year Data Engineering student at Universiti Teknologi Malaysia. 
-
-# Assignment Reflection
+# SECP1513 Assignment Reflection
 
 | No | About | Evidence | Reflection |
 |----------|----------|----------|----------|
