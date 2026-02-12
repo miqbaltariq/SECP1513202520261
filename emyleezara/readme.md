@@ -1,4 +1,4 @@
-**Univerisiti** *Teknologi* ~~Malaysia~~~~
+**Univerisiti** *Teknologi* Malaysia
 
 |NUM             |REFELCTIONS                  |EVIDENCE                    |
 |----------------|-------------------------------|--------------------------|
