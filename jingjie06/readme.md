@@ -1,44 +1,4 @@
-**Universiti** *Teknologi* ~~Malaysia~~
-
-# Welcome to StackEdit!
-
-Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
-
-
-# Files
-
-StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
-
-## Create files and folders
-
-The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
-
-## Switch to another file
-
-All your files and folders are presented as a tree in the file explorer. You can switch from one to another by clicking a file in the tree.
-
-## Rename a file
-
-You can rename the current file by clicking the file name in the navigation bar or by clicking the **Rename** button in the file explorer.
-
-## Delete a file
-
-You can delete the current file by clicking the **Remove** button in the file explorer. The file will be moved into the **Trash** folder and automatically deleted after 7 days of inactivity.
-
-## Export a file
-
-You can export the current file by clicking **Export to disk** in the menu. You can choose to export the file as plain Markdown, as HTML using a Handlebars template or as a PDF.
-
-## SmartyPants
-
-SmartyPants converts ASCII punctuation characters into "smart" typographic punctuation HTML entities. For example:
-
-|     NO           |       ASSIGNMENT                          |REFLECTIONS                         |
-|----------------|-------------------------------|-----------------------------|
-|1|Industry Talk           |How technologi changed our life            |
-|2          |`"Isn't this fun?"`            |not fun            |
-|3          |`-- is en-dash, --- is em-dash`|boring|
-|4          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
-|5          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
-|6          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
-|7         |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
+| No | Event | Reflection | Evidence |
+|----|-------|------------|----------|
+| 1 | Industry Visit 1|Attending the UTM Digital Talk and UTMDigital Open Day really helped me realise how important AI, digital tools, and data systems are in shaping modern education and campus management. The sessions showed how technology can create more interactive learning environments and improve efficiency in facilities management. This experience motivated me to be more open to digital innovation and better prepared for a technology-driven future.|[Video](https://drive.google.com/file/d/1bFIVbgYPNPTbdoVyjteMnKj8Ujo4IAG6/view)|
+|2|Lab 1 (PC Assemble)|Through this lab activity, I learned how to disassemble hardware components inside a PC such as the RAM, CPU fan, cables, hard disk drive, and so on. After that, we needed to assemble the hardware components again and make sure everything worked correctly since we had to perform a power-on test for our lecturer. This experience taught me how to identify hardware components and where they should be installed. In the future, I am confident that I can assemble my own PC based on my requirements because it is more cost-effective, and having hands-on experience will be very enjoyable.|
