@@ -1,15 +1,12 @@
-**Univerisiti** *Teknologi* Malaysia
+**Universiti** *Teknologi* Malaysia
 
-|NUM             |REFELCTIONS                  |EVIDENCE                    |
-|----------------|-----------------------------|----------------------------|
-|       1        |                             |                            |
-|       2        |                             |                            |
-|       3        |                             |                            |
-|       4        |                             |                            |
-|       5        |                             |                            |
-|       6        |                             |                            |
-|       7        |                             |                            |
-
-
-
-
+| NUM | ASSIGNMENT | REFLECTIONS | EVIDENCE |
+| :--- | :--- | :--- | :--- |
+| 1 | PC MAINTENANCE | 30/10 (assessment through quiz) | |
+| 2 | Visit to UTM Digital | My visit to UTM Digital was a turning point in how I view my field of study. Initially, concepts like "AI" and "Digital Transformation" felt abstract, but seeing real-world applications—like Mr. Ronald Chong's (Canon) insights on imaging data and Mr. SK Leong's talk on AI privacy monitoring—made the technology feel tangible. <br><br> The most impactful lesson came from Dr. Ts. Ahmad Sha'rainan Md Shaarani, who introduced me to "process-centric thinking." I realized that an advanced tool is only as good as the workflow it supports; without real-time data flow, even a "Digital Twin" is just a concept. This experience shifted my perspective: true innovation isn't just about the software, it's about understanding the processes, people, and perspectives involved in solving human problems. | |
+| 3 | PPG Industry Talk | 20/11 HyFlex classroom | |
+| 4 | Industry Talk 1 | | |
+| 5 | ASEAN Quantum Summit | 11/12 | |
+| 6 | Industry Talk 2 | 18/12 serunai | |
+| 7 | Industry Visit to Etiqa Insurance | 15/1 | |
+| 8 | Design Thinking Project | | |
